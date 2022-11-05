@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "gulp-shell": "^0.7.0",
     "lodash": "^4.17.11"
